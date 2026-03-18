@@ -4,15 +4,15 @@ files:
     visible: true
     placeholders:
       - offset: 249
-        length: 10
+        length: 12
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 249
         initialized_from_dependency: false
         encrypted_possible_answer: 5Nb4HtxWMpYc2ICZG3cAYw==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: Cargo.toml
     visible: false
@@ -20,5 +20,8 @@ files:
   - name: tests/tests.rs
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 18 Mar 2026 12:29:41 UTC"
 record: -1
